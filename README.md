@@ -21,7 +21,7 @@ A proposta é facilitar o controle das doações e aproximar pessoas interessada
 
 * ☕ Java
 * 🗄️ JDBC
-* 🐬 MySQL
+* 🐬 SQL
 * 🧩 Maven
 * 💻 Programação Orientada a Objetos (POO)
 * 🔗 DAO Pattern
